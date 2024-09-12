@@ -6,3 +6,5 @@ Here’s my job description for this project.
 - Analyze and redesign system using data flow diagrams, ER diagrams, and data dictionaries
 - Built mockup data and developed a PHP/SQL backend to facilitate tasks; work assignment and tracking monthly revenue
 
+All detailed explanation can be found here:
+

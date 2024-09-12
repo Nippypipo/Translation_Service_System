@@ -1,0 +1,26 @@
+/* Add some basic styling to the navigation bar */
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li.nav-item {
+    float: left;
+}
+
+li.nav-item a {
+    display: block;
+    color: #000; /* Set the text color to your desired monotone color */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ccc; /* Set the background color to your desired monotone color */
+}
+
+li.nav-item a:hover {
+    background-color: #999; /* Set the background color on hover to a darker shade of your monotone color */
+    color: #fff; /* Set the text color on hover to a contrasting color */
+}

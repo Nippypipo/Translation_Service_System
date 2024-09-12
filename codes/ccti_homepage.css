@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+ul.navbar1 {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px auto;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.nav-item1 {
+    margin-bottom: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.nav-item1 a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.nav-item1 a:hover {
+    background-color: #f5f5f5;
+}
+
+
+
+
+
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li.nav-item {
+    float: left;
+}
+
+li.nav-item a {
+    display: block;
+    color: #000; /* Set the text color to your desired monotone color */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ccc; /* Set the background color to your desired monotone color */
+}
+
+li.nav-item a:hover {
+    background-color: #999; /* Set the background color on hover to a darker shade of your monotone color */
+    color: #fff; /* Set the text color on hover to a contrasting color */
+}
